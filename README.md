@@ -1,1 +1,1 @@
-# Shit-In-Java-JavaFx
+# Things-In-Java-JavaFx
