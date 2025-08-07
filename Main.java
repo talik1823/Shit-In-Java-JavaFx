@@ -11,6 +11,12 @@ public class Main extends  Application{
         System.out.println();
     }
 
+
+    /*
+    * If do you want to invoke one of the files you need to discover the specifec Parent root 
+    * in start method like "squareOrder.fxml" and run the code.
+    * In this case in the above I discover line number 24 which is the squere game.
+    */
     @Override
     public void start(Stage stage) throws Exception {
 //        Parent root = (Parent) FXMLLoader.load(getClass().getResource("tamplate.fxml"));
